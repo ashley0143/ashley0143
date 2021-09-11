@@ -1,5 +1,6 @@
+
 <h1>Hi</h1>
-discord:Ashy#0050 <br>
+discord:Ashley_#0050 <br>
 pronuns:she/her
 <h1>stats n stuff</h1>
 <p align="center">
