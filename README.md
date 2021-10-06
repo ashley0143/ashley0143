@@ -1,19 +1,16 @@
-<!-- so basicly amogus -->
-<h1>Yello there!</h1><br>
-im a girl who likes open source software alot lol<br>
-AMOGUS<br>
-discord:Ashley_#0050 <br>
-WHATS EPIC THINGS THAT I KNOW?<br>
-i know these thingys<br>
--Typescript And Javascript<br>
--Node and deno<br>
--Java and kotlin<br>
--React & vue<br>
-<h1>This thing:</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashpotter&show_icons=true&count_private=true&theme=tokyonight"/><br>
-</p>
-ok bye
+# 👋 Yello there! Here are some stuff to know about me
+- I'm a girl 🌸
+- My mom is big
+- AMOGUS
 
+#### This is my Discord
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396571938081865741)](https://discord.com/users/396571938081865741)
 
-
+### I know these stuff
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="NodeJS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Kotlin" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
