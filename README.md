@@ -1,5 +1,4 @@
 # 👋 Yello there! Here are some cool stuff to know about me
-- I'm a girl 🌸
 - i like cats
 - i like open source alot
 - AMOGUS
