@@ -1,4 +1,4 @@
-# 👋 Yello there! Here are some cool stuff to know about me
+# 👋 Yello there Qt! Here are some cool stuff to know about me
 - i like cats
 - i like open source alot
 - AMOGUS
