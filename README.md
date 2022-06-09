@@ -1,8 +1,10 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+<hr>
 # 👋 Yello there Qt! Here are some cool stuff to know about me
 - i fucking love air conditioning
 - i like open source alot
 - AMOGUS
-
+ 
 #### This is my Discord
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396571938081865741)](https://discord.com/users/396571938081865741) <!-- look mom im on a readme -->
 
