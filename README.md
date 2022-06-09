@@ -1,5 +1,6 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 <hr>
+
 # 👋 Yello there Qt! Here are some cool stuff to know about me
 - i fucking love air conditioning
 - i like open source alot
