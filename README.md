@@ -3,7 +3,7 @@
 
 # 👋 Yello there Qt! Here are some cool stuff to know about me
 - i fucking love air conditioning
-- i like open source alot
+- i like free software alot
 - AMOGUS
  
 #### This is my Discord
