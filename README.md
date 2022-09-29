@@ -4,13 +4,13 @@
 # 👋 Yello there Qt! Here are some cool stuff to know about me
 - i fucking love air conditioning
 - i like free software alot
-- AMOGUS
- 
+  
 #### This is my Discord
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396571938081865741)](https://discord.com/users/396571938081865741) <!-- look mom im on a readme -->
 
 ### my cool stats
-![Ashley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashley0143&layout=compact&theme=tokyonight)
+![Ashley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashley0143&layout=compact&theme=tokyonight&the=4)
+
 ### I know these stuff
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
